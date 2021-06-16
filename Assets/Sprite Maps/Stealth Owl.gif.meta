@@ -1,0 +1,7976 @@
+fileFormatVersion: 2
+guid: 81e859fbee756324fab6e45a55b78a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6424154391878706759
+    second: Stealth Owl_0
+  - first:
+      213: 6646970139239002425
+    second: Stealth Owl_1
+  - first:
+      213: 4851996016590980511
+    second: Stealth Owl_2
+  - first:
+      213: -2264923732843735264
+    second: Stealth Owl_3
+  - first:
+      213: -6665850043795912535
+    second: Stealth Owl_4
+  - first:
+      213: -4339839177190983814
+    second: Stealth Owl_5
+  - first:
+      213: 5608457479625797177
+    second: Stealth Owl_6
+  - first:
+      213: -2156759197026145706
+    second: Stealth Owl_7
+  - first:
+      213: 5579768335891320843
+    second: Stealth Owl_8
+  - first:
+      213: -7699753964472729093
+    second: Stealth Owl_9
+  - first:
+      213: -8374098655192447763
+    second: Stealth Owl_10
+  - first:
+      213: -6732612998513110635
+    second: Stealth Owl_11
+  - first:
+      213: -5762602557128268665
+    second: Stealth Owl_12
+  - first:
+      213: 5406101641205969322
+    second: Stealth Owl_13
+  - first:
+      213: -4152156691791412334
+    second: Stealth Owl_14
+  - first:
+      213: 4428120685259335155
+    second: Stealth Owl_15
+  - first:
+      213: -6239516464349002016
+    second: Stealth Owl_16
+  - first:
+      213: 6269267431982456843
+    second: Stealth Owl_17
+  - first:
+      213: 5120378431660049441
+    second: Stealth Owl_18
+  - first:
+      213: -1853168169775664776
+    second: Stealth Owl_19
+  - first:
+      213: -4979265942091400037
+    second: Stealth Owl_20
+  - first:
+      213: -6716627426828037301
+    second: Stealth Owl_21
+  - first:
+      213: -4964166709576758754
+    second: Stealth Owl_22
+  - first:
+      213: -5796421877354774653
+    second: Stealth Owl_23
+  - first:
+      213: -252353810834727177
+    second: Stealth Owl_24
+  - first:
+      213: 4733670935676964052
+    second: Stealth Owl_25
+  - first:
+      213: -6952260366940525661
+    second: Stealth Owl_26
+  - first:
+      213: -633742649682900421
+    second: Stealth Owl_27
+  - first:
+      213: -2871241906561182966
+    second: Stealth Owl_28
+  - first:
+      213: -2503094936643384375
+    second: Stealth Owl_29
+  - first:
+      213: 3522037085787735614
+    second: Stealth Owl_30
+  - first:
+      213: -1178352772105103277
+    second: Stealth Owl_31
+  - first:
+      213: 5212108816951124672
+    second: Stealth Owl_32
+  - first:
+      213: -8786425667671649790
+    second: Stealth Owl_33
+  - first:
+      213: -2208805611246956
+    second: Stealth Owl_34
+  - first:
+      213: -1885428111844215735
+    second: Stealth Owl_35
+  - first:
+      213: 7579156320211861621
+    second: Stealth Owl_36
+  - first:
+      213: -2420962894043070531
+    second: Stealth Owl_37
+  - first:
+      213: -6030756281213243133
+    second: Stealth Owl_38
+  - first:
+      213: 928020174908218197
+    second: Stealth Owl_39
+  - first:
+      213: 7718871790823013706
+    second: Stealth Owl_40
+  - first:
+      213: 1463842257004206215
+    second: Stealth Owl_41
+  - first:
+      213: -8935822131962834492
+    second: Stealth Owl_42
+  - first:
+      213: 7840324956951752776
+    second: Stealth Owl_43
+  - first:
+      213: -8429903534134879519
+    second: Stealth Owl_44
+  - first:
+      213: -2215591281495066302
+    second: Stealth Owl_45
+  - first:
+      213: 7212186558896256508
+    second: Stealth Owl_46
+  - first:
+      213: 760186232443627665
+    second: Stealth Owl_47
+  - first:
+      213: 2101825808134680
+    second: Stealth Owl_48
+  - first:
+      213: 4151016053243000785
+    second: Stealth Owl_49
+  - first:
+      213: -8594267545614411199
+    second: Stealth Owl_50
+  - first:
+      213: 870056714372810481
+    second: Stealth Owl_51
+  - first:
+      213: -2752491474485597724
+    second: Stealth Owl_52
+  - first:
+      213: -6598934682078458517
+    second: Stealth Owl_53
+  - first:
+      213: 14730251511657478
+    second: Stealth Owl_54
+  - first:
+      213: -9015638206700792865
+    second: Stealth Owl_55
+  - first:
+      213: 2746027745193666318
+    second: Stealth Owl_56
+  - first:
+      213: 7558412528003700629
+    second: Stealth Owl_57
+  - first:
+      213: 4010768638060891283
+    second: Stealth Owl_58
+  - first:
+      213: -235618574873031871
+    second: Stealth Owl_59
+  - first:
+      213: -6154414289573740123
+    second: Stealth Owl_60
+  - first:
+      213: 7328044410767286822
+    second: Stealth Owl_61
+  - first:
+      213: -5134727318480109716
+    second: Stealth Owl_62
+  - first:
+      213: 3482366232037513331
+    second: Stealth Owl_63
+  - first:
+      213: 3854997540477052224
+    second: Stealth Owl_64
+  - first:
+      213: -4388071239841321927
+    second: Stealth Owl_65
+  - first:
+      213: -8891794775082383498
+    second: Stealth Owl_66
+  - first:
+      213: 3613930568760038945
+    second: Stealth Owl_67
+  - first:
+      213: -419287269965267284
+    second: Stealth Owl_68
+  - first:
+      213: -1191530360190379096
+    second: Stealth Owl_69
+  - first:
+      213: 1455128497187408782
+    second: Stealth Owl_70
+  - first:
+      213: -1550538783744487270
+    second: Stealth Owl_71
+  - first:
+      213: 2162899164905293152
+    second: Stealth Owl_72
+  - first:
+      213: 1815048284830553944
+    second: Stealth Owl_73
+  - first:
+      213: -17346425091286775
+    second: Stealth Owl_74
+  - first:
+      213: 6697648856973942455
+    second: Stealth Owl_75
+  - first:
+      213: -5526412812696606297
+    second: Stealth Owl_76
+  - first:
+      213: 7241290463264052807
+    second: Stealth Owl_77
+  - first:
+      213: 9147298359891304762
+    second: Stealth Owl_78
+  - first:
+      213: -8505110602714913703
+    second: Stealth Owl_79
+  - first:
+      213: 7850978914013101414
+    second: Stealth Owl_80
+  - first:
+      213: -7358985899163570111
+    second: Stealth Owl_81
+  - first:
+      213: 8241967889761166566
+    second: Stealth Owl_82
+  - first:
+      213: -5343951586970658172
+    second: Stealth Owl_83
+  - first:
+      213: 4010576104214398196
+    second: Stealth Owl_84
+  - first:
+      213: -7278953386280438711
+    second: Stealth Owl_85
+  - first:
+      213: -2319307930931916817
+    second: Stealth Owl_86
+  - first:
+      213: -8097831540189470950
+    second: Stealth Owl_87
+  - first:
+      213: -2657707349275709797
+    second: Stealth Owl_88
+  - first:
+      213: -1020190685558154310
+    second: Stealth Owl_89
+  - first:
+      213: -6815986195433139284
+    second: Stealth Owl_90
+  - first:
+      213: -4990780459963963083
+    second: Stealth Owl_91
+  - first:
+      213: 2302497133643930703
+    second: Stealth Owl_92
+  - first:
+      213: -1330062338086221351
+    second: Stealth Owl_93
+  - first:
+      213: -8739375317078671360
+    second: Stealth Owl_94
+  - first:
+      213: 217672542661281848
+    second: Stealth Owl_95
+  - first:
+      213: 2377361717741472620
+    second: Stealth Owl_96
+  - first:
+      213: -3243468133515956143
+    second: Stealth Owl_97
+  - first:
+      213: 7363571979392105293
+    second: Stealth Owl_98
+  - first:
+      213: -4460823911576642953
+    second: Stealth Owl_99
+  - first:
+      213: -7203098830912940735
+    second: Stealth Owl_100
+  - first:
+      213: -5588057786974396446
+    second: Stealth Owl_101
+  - first:
+      213: -8147437266940413351
+    second: Stealth Owl_102
+  - first:
+      213: -4161502069431444708
+    second: Stealth Owl_103
+  - first:
+      213: 5228456906864671682
+    second: Stealth Owl_104
+  - first:
+      213: 5313492591660793726
+    second: Stealth Owl_105
+  - first:
+      213: -6216669679134622852
+    second: Stealth Owl_106
+  - first:
+      213: 6744840425100834122
+    second: Stealth Owl_107
+  - first:
+      213: 4759544844139126143
+    second: Stealth Owl_108
+  - first:
+      213: 7644882625537017419
+    second: Stealth Owl_109
+  - first:
+      213: 5566731086224756568
+    second: Stealth Owl_110
+  - first:
+      213: 6316775144804867773
+    second: Stealth Owl_111
+  - first:
+      213: 7341904310354714226
+    second: Stealth Owl_112
+  - first:
+      213: -7597958366139080751
+    second: Stealth Owl_113
+  - first:
+      213: 2334197253643358041
+    second: Stealth Owl_114
+  - first:
+      213: -1954507993873453116
+    second: Stealth Owl_115
+  - first:
+      213: 773585664914957736
+    second: Stealth Owl_116
+  - first:
+      213: 143029303364580150
+    second: Stealth Owl_117
+  - first:
+      213: 5000298398249804652
+    second: Stealth Owl_118
+  - first:
+      213: 3804742686413798560
+    second: Stealth Owl_119
+  - first:
+      213: -632668337302854028
+    second: Stealth Owl_120
+  - first:
+      213: 899866647588563488
+    second: Stealth Owl_121
+  - first:
+      213: 6057790766030907454
+    second: Stealth Owl_122
+  - first:
+      213: 2336091685923878971
+    second: Stealth Owl_123
+  - first:
+      213: 2429221840718479848
+    second: Stealth Owl_124
+  - first:
+      213: 3017124544092742555
+    second: Stealth Owl_125
+  - first:
+      213: 3647051090694183544
+    second: Stealth Owl_126
+  - first:
+      213: -8581960411583726548
+    second: Stealth Owl_127
+  - first:
+      213: -4238212764214760595
+    second: Stealth Owl_128
+  - first:
+      213: -2478386381472566362
+    second: Stealth Owl_129
+  - first:
+      213: -7646289723568607502
+    second: Stealth Owl_130
+  - first:
+      213: 4637872380188223274
+    second: Stealth Owl_131
+  - first:
+      213: -1670478217640374853
+    second: Stealth Owl_132
+  - first:
+      213: -3415813634464102232
+    second: Stealth Owl_133
+  - first:
+      213: 517784452719769267
+    second: Stealth Owl_134
+  - first:
+      213: 3315087174181364894
+    second: Stealth Owl_135
+  - first:
+      213: 8029527921309005054
+    second: Stealth Owl_136
+  - first:
+      213: 1818753676706583963
+    second: Stealth Owl_137
+  - first:
+      213: -4262895822121397668
+    second: Stealth Owl_138
+  - first:
+      213: 4512388129185469312
+    second: Stealth Owl_139
+  - first:
+      213: 7159523206597704194
+    second: Stealth Owl_140
+  - first:
+      213: -418736412253651918
+    second: Stealth Owl_141
+  - first:
+      213: 6376186825512368921
+    second: Stealth Owl_142
+  - first:
+      213: -8072722733457487925
+    second: Stealth Owl_143
+  - first:
+      213: -532155042249220840
+    second: Stealth Owl_144
+  - first:
+      213: 1790459515562416865
+    second: Stealth Owl_145
+  - first:
+      213: 6694079762542191707
+    second: Stealth Owl_146
+  - first:
+      213: -3555095052579637302
+    second: Stealth Owl_147
+  - first:
+      213: -4299496315313972591
+    second: Stealth Owl_148
+  - first:
+      213: -9093505790498704482
+    second: Stealth Owl_149
+  - first:
+      213: 4842725604084069929
+    second: Stealth Owl_150
+  - first:
+      213: 6043570573545803806
+    second: Stealth Owl_151
+  - first:
+      213: 2595891981585960914
+    second: Stealth Owl_152
+  - first:
+      213: -6879229889358126519
+    second: Stealth Owl_153
+  - first:
+      213: -8949454242747488949
+    second: Stealth Owl_154
+  - first:
+      213: 379600635757745663
+    second: Stealth Owl_155
+  - first:
+      213: -7231298267070993767
+    second: Stealth Owl_156
+  - first:
+      213: -5547658009105671044
+    second: Stealth Owl_157
+  - first:
+      213: -5446077039551397609
+    second: Stealth Owl_158
+  - first:
+      213: -4415352238808887340
+    second: Stealth Owl_159
+  - first:
+      213: -3001227337981673111
+    second: Stealth Owl_160
+  - first:
+      213: 806776344398938424
+    second: Stealth Owl_161
+  - first:
+      213: 1527305160673490186
+    second: Stealth Owl_162
+  - first:
+      213: 5842427151882234722
+    second: Stealth Owl_163
+  - first:
+      213: -8250697801373314038
+    second: Stealth Owl_164
+  - first:
+      213: -5406752278188110862
+    second: Stealth Owl_165
+  - first:
+      213: -5069139980269110506
+    second: Stealth Owl_166
+  - first:
+      213: -3130903661015930581
+    second: Stealth Owl_167
+  - first:
+      213: -5409387188302055762
+    second: Stealth Owl_168
+  - first:
+      213: 975284233805917522
+    second: Stealth Owl_169
+  - first:
+      213: -5102379160180522026
+    second: Stealth Owl_170
+  - first:
+      213: 8712047981023657688
+    second: Stealth Owl_171
+  - first:
+      213: 8954018967949922311
+    second: Stealth Owl_172
+  - first:
+      213: 854853273178971266
+    second: Stealth Owl_173
+  - first:
+      213: -6782857900959507764
+    second: Stealth Owl_174
+  - first:
+      213: -7217757727601299094
+    second: Stealth Owl_175
+  - first:
+      213: 7180763708287108075
+    second: Stealth Owl_176
+  - first:
+      213: -6440565177068396000
+    second: Stealth Owl_177
+  - first:
+      213: 4020702389363729707
+    second: Stealth Owl_178
+  - first:
+      213: 3631048641587979527
+    second: Stealth Owl_179
+  - first:
+      213: -7113156547698766987
+    second: Stealth Owl_180
+  - first:
+      213: 4633221128419666829
+    second: Stealth Owl_181
+  - first:
+      213: 4773002956370065319
+    second: Stealth Owl_182
+  - first:
+      213: 9149212841598562776
+    second: Stealth Owl_183
+  - first:
+      213: -9044274957056272001
+    second: Stealth Owl_184
+  - first:
+      213: 900530408460818215
+    second: Stealth Owl_185
+  - first:
+      213: -5936556603008089741
+    second: Stealth Owl_186
+  - first:
+      213: -2562978997574309017
+    second: Stealth Owl_187
+  - first:
+      213: 3010101701840140208
+    second: Stealth Owl_188
+  - first:
+      213: -1095371601373511762
+    second: Stealth Owl_189
+  - first:
+      213: 5069074344192967902
+    second: Stealth Owl_190
+  - first:
+      213: 2897634030743603635
+    second: Stealth Owl_191
+  - first:
+      213: 8452227530521042448
+    second: Stealth Owl_192
+  - first:
+      213: 5104905247729234882
+    second: Stealth Owl_193
+  - first:
+      213: 8596167621215366985
+    second: Stealth Owl_194
+  - first:
+      213: 48414102847588115
+    second: Stealth Owl_195
+  - first:
+      213: -8510589434191819002
+    second: Stealth Owl_196
+  - first:
+      213: -2059360784671724887
+    second: Stealth Owl_197
+  - first:
+      213: 1354460500552817150
+    second: Stealth Owl_198
+  - first:
+      213: 8165208641264552027
+    second: Stealth Owl_199
+  - first:
+      213: -1615071692733108390
+    second: Stealth Owl_200
+  - first:
+      213: -5981431814005721646
+    second: Stealth Owl_201
+  - first:
+      213: -3056181623455253835
+    second: Stealth Owl_202
+  - first:
+      213: -8042423141205451125
+    second: Stealth Owl_203
+  - first:
+      213: 3790301923187576936
+    second: Stealth Owl_204
+  - first:
+      213: 5262138014095572718
+    second: Stealth Owl_205
+  - first:
+      213: -4686953874436840215
+    second: Stealth Owl_206
+  - first:
+      213: 1144677177973008392
+    second: Stealth Owl_207
+  - first:
+      213: 2837632663512170352
+    second: Stealth Owl_208
+  - first:
+      213: -2133211675865244881
+    second: Stealth Owl_209
+  - first:
+      213: -2528396324101024318
+    second: Stealth Owl_210
+  - first:
+      213: -1635400694357333165
+    second: Stealth Owl_211
+  - first:
+      213: -3274539632803806994
+    second: Stealth Owl_212
+  - first:
+      213: -760283066350327549
+    second: Stealth Owl_213
+  - first:
+      213: 6264574112047139392
+    second: Stealth Owl_214
+  - first:
+      213: -971650317077755486
+    second: Stealth Owl_215
+  - first:
+      213: -8795108478036799479
+    second: Stealth Owl_216
+  - first:
+      213: -471161208390778822
+    second: Stealth Owl_217
+  - first:
+      213: -2970073435307998557
+    second: Stealth Owl_218
+  - first:
+      213: 7643440322149594750
+    second: Stealth Owl_219
+  - first:
+      213: -6695879799618032353
+    second: Stealth Owl_220
+  - first:
+      213: 6237306818190600340
+    second: Stealth Owl_221
+  - first:
+      213: 2512938396577945898
+    second: Stealth Owl_222
+  - first:
+      213: -772799130488199454
+    second: Stealth Owl_223
+  - first:
+      213: -8390835982683567466
+    second: Stealth Owl_224
+  - first:
+      213: -106488183365497351
+    second: Stealth Owl_225
+  - first:
+      213: 3963414743954864221
+    second: Stealth Owl_226
+  - first:
+      213: 7796402774762718711
+    second: Stealth Owl_227
+  - first:
+      213: 5310565691848176133
+    second: Stealth Owl_228
+  - first:
+      213: -2233721647528861640
+    second: Stealth Owl_229
+  - first:
+      213: 7941663116854868844
+    second: Stealth Owl_230
+  - first:
+      213: 6107075642585161295
+    second: Stealth Owl_231
+  - first:
+      213: 8018305353743002129
+    second: Stealth Owl_232
+  - first:
+      213: -6928994376708415441
+    second: Stealth Owl_233
+  - first:
+      213: -2081989068718402324
+    second: Stealth Owl_234
+  - first:
+      213: 333897146362064283
+    second: Stealth Owl_235
+  - first:
+      213: 7850593632495732744
+    second: Stealth Owl_236
+  - first:
+      213: 5595692597746401300
+    second: Stealth Owl_237
+  - first:
+      213: -3790172193124593501
+    second: Stealth Owl_238
+  - first:
+      213: 4150893275580006826
+    second: Stealth Owl_239
+  - first:
+      213: -5146481842782369208
+    second: Stealth Owl_240
+  - first:
+      213: 2534334584328462627
+    second: Stealth Owl_241
+  - first:
+      213: 3401243859191328527
+    second: Stealth Owl_242
+  - first:
+      213: -738597067418695329
+    second: Stealth Owl_243
+  - first:
+      213: -3605082756173654695
+    second: Stealth Owl_244
+  - first:
+      213: 5433843518030931877
+    second: Stealth Owl_245
+  - first:
+      213: -7624631021197102403
+    second: Stealth Owl_246
+  - first:
+      213: 4758096016621345552
+    second: Stealth Owl_247
+  - first:
+      213: -3255759663540570366
+    second: Stealth Owl_248
+  - first:
+      213: 1571317090278007600
+    second: Stealth Owl_249
+  - first:
+      213: -542317809461270580
+    second: Stealth Owl_250
+  - first:
+      213: 5689644914271020171
+    second: Stealth Owl_251
+  - first:
+      213: 4369451561271398529
+    second: Stealth Owl_252
+  - first:
+      213: -45813402450545743
+    second: Stealth Owl_253
+  - first:
+      213: -4143264754226049635
+    second: Stealth Owl_254
+  - first:
+      213: -4932179266381207927
+    second: Stealth Owl_255
+  - first:
+      213: 415896327420941084
+    second: Stealth Owl_256
+  - first:
+      213: -2277239312309986085
+    second: Stealth Owl_257
+  - first:
+      213: 62875801896515076
+    second: Stealth Owl_258
+  - first:
+      213: 6088532498877687990
+    second: Stealth Owl_259
+  - first:
+      213: 5154449214546796260
+    second: Stealth Owl_260
+  - first:
+      213: 4901328470493164549
+    second: Stealth Owl_261
+  - first:
+      213: -8560727992176181994
+    second: Stealth Owl_262
+  - first:
+      213: 2278436453623995788
+    second: Stealth Owl_263
+  - first:
+      213: 7115939023215823236
+    second: Stealth Owl_264
+  - first:
+      213: 9051408710125124674
+    second: Stealth Owl_265
+  - first:
+      213: -967342582765763887
+    second: Stealth Owl_266
+  - first:
+      213: 2380000229153129818
+    second: Stealth Owl_267
+  - first:
+      213: 1501420136910004036
+    second: Stealth Owl_268
+  - first:
+      213: 1774751533720232550
+    second: Stealth Owl_269
+  - first:
+      213: -8765006713689021356
+    second: Stealth Owl_270
+  - first:
+      213: 3968721201177174849
+    second: Stealth Owl_271
+  - first:
+      213: -8959381280008651087
+    second: Stealth Owl_272
+  - first:
+      213: -4710508463552105930
+    second: Stealth Owl_273
+  - first:
+      213: 2536390611814581209
+    second: Stealth Owl_274
+  - first:
+      213: 1149512138606162202
+    second: Stealth Owl_275
+  - first:
+      213: 3322677684581897415
+    second: Stealth Owl_276
+  - first:
+      213: 8168103552472934331
+    second: Stealth Owl_277
+  - first:
+      213: 8031633267764939713
+    second: Stealth Owl_278
+  - first:
+      213: -3383819399542123359
+    second: Stealth Owl_279
+  - first:
+      213: -5894120612046637826
+    second: Stealth Owl_280
+  - first:
+      213: 5258634367972680182
+    second: Stealth Owl_281
+  - first:
+      213: 8724336441291661149
+    second: Stealth Owl_282
+  - first:
+      213: 4888267586212104100
+    second: Stealth Owl_283
+  - first:
+      213: 743493234897134527
+    second: Stealth Owl_284
+  - first:
+      213: 7648661788867097942
+    second: Stealth Owl_285
+  - first:
+      213: -69850688652608709
+    second: Stealth Owl_286
+  - first:
+      213: -2872469690104323448
+    second: Stealth Owl_287
+  - first:
+      213: 4230776585722445368
+    second: Stealth Owl_288
+  - first:
+      213: 8858203124516277642
+    second: Stealth Owl_289
+  - first:
+      213: 5401412017013303930
+    second: Stealth Owl_290
+  - first:
+      213: 173993845535098509
+    second: Stealth Owl_291
+  - first:
+      213: 5017361915230640970
+    second: Stealth Owl_292
+  - first:
+      213: -8977773356452822589
+    second: Stealth Owl_293
+  - first:
+      213: -4932436669654059841
+    second: Stealth Owl_294
+  - first:
+      213: -2650448447027150770
+    second: Stealth Owl_295
+  - first:
+      213: -33276602290235249
+    second: Stealth Owl_296
+  - first:
+      213: 1703145801915933947
+    second: Stealth Owl_297
+  - first:
+      213: 503730134611348815
+    second: Stealth Owl_298
+  - first:
+      213: -8660590233436135518
+    second: Stealth Owl_299
+  - first:
+      213: 1512121939135387749
+    second: Stealth Owl_300
+  - first:
+      213: 1509280106006306215
+    second: Stealth Owl_301
+  - first:
+      213: 9141632100421146376
+    second: Stealth Owl_302
+  - first:
+      213: 6976456711919989018
+    second: Stealth Owl_303
+  - first:
+      213: -4406160775008691563
+    second: Stealth Owl_304
+  - first:
+      213: 1889631247577378307
+    second: Stealth Owl_305
+  - first:
+      213: 7886131750292316932
+    second: Stealth Owl_306
+  - first:
+      213: 3315674917461358578
+    second: Stealth Owl_307
+  - first:
+      213: 8736049594192497684
+    second: Stealth Owl_308
+  - first:
+      213: -2826714627260426996
+    second: Stealth Owl_309
+  - first:
+      213: 7662112054163835181
+    second: Stealth Owl_310
+  - first:
+      213: -147317329782880549
+    second: Stealth Owl_311
+  - first:
+      213: 2883107686687129383
+    second: Stealth Owl_312
+  - first:
+      213: -4056299081748364234
+    second: Stealth Owl_313
+  - first:
+      213: 3494915727278105785
+    second: Stealth Owl_314
+  - first:
+      213: 8950670161562353683
+    second: Stealth Owl_315
+  - first:
+      213: 2518291556172851960
+    second: Stealth Owl_316
+  - first:
+      213: 3190610200145860968
+    second: Stealth Owl_317
+  - first:
+      213: 130698881576013919
+    second: Stealth Owl_318
+  - first:
+      213: 2944888545592472494
+    second: Stealth Owl_319
+  - first:
+      213: 1350551437479834197
+    second: Stealth Owl_320
+  - first:
+      213: 8381345810631707334
+    second: Stealth Owl_321
+  - first:
+      213: -3603821455492934510
+    second: Stealth Owl_322
+  - first:
+      213: -6078948541321162386
+    second: Stealth Owl_323
+  - first:
+      213: -2740143378433201567
+    second: Stealth Owl_324
+  - first:
+      213: 5317841086933439741
+    second: Stealth Owl_325
+  - first:
+      213: 7400872127151976487
+    second: Stealth Owl_326
+  - first:
+      213: 9194449856090700242
+    second: Stealth Owl_327
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stealth Owl_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1815
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746223ef16e272950800000000000000
+      internalID: 6424154391878706759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1815
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93138fddf18ce3c50800000000000000
+      internalID: 6646970139239002425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1814
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95048c8ba0c55340800000000000000
+      internalID: 4851996016590980511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1814
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275f747ddf5190e0800000000000000
+      internalID: -2264923732843735264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1814
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8c58dc3b42e73a0800000000000000
+      internalID: -6665850043795912535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1814
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773535034bc5c3c0800000000000000
+      internalID: -4339839177190983814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1814
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6af2ec5e35dd40800000000000000
+      internalID: 5608457479625797177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1814
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a2333ffe6a112e0800000000000000
+      internalID: -2156759197026145706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1814
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0056c51db15f6d40800000000000000
+      internalID: 5579768335891320843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1814
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf182b9709af42590800000000000000
+      internalID: -7699753964472729093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1757
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de48d2714a939cb80800000000000000
+      internalID: -8374098655192447763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1787
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d2751624f092a0800000000000000
+      internalID: -6732612998513110635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1757
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ac90818f1700b0800000000000000
+      internalID: -5762602557128268665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1787
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1fcb7ccc4560b40800000000000000
+      internalID: 5406101641205969322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1757
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2930306ec739066c0800000000000000
+      internalID: -4152156691791412334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1782
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f521735d48d37d30800000000000000
+      internalID: 4428120685259335155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1757
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c64485d8c869a0800000000000000
+      internalID: -6239516464349002016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1782
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b006d3d6389e00750800000000000000
+      internalID: 6269267431982456843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1788
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244baefd0d3f0740800000000000000
+      internalID: 5120378431660049441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1757
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f57b3e593846e0800000000000000
+      internalID: -1853168169775664776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1783
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf077c10816eab0800000000000000
+      internalID: -4979265942091400037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1757
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d44701feb9c2a0800000000000000
+      internalID: -6716627426828037301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1783
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a8bddcdacbb1bb0800000000000000
+      internalID: -4964166709576758754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_23
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1757
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f37f76309fe8fa0800000000000000
+      internalID: -5796421877354774653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1757
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feda7bcb857f7cf0800000000000000
+      internalID: -252353810834727177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1668
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dccd9cc2a061b140800000000000000
+      internalID: 4733670935676964052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_26
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1729
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abab7ae70c948f90800000000000000
+      internalID: -6952260366940525661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1713
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac2a6fa6e7437f0800000000000000
+      internalID: -633742649682900421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_28
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1718
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03943fc2bc4728d0800000000000000
+      internalID: -2871241906561182966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1721
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbca46ca68334dd0800000000000000
+      internalID: -2503094936643384375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1668
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364128a11ac0e030800000000000000
+      internalID: 3522037085787735614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1714
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358149e9566a5afe0800000000000000
+      internalID: -1178352772105103277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1668
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ad05aa51255840800000000000000
+      internalID: 5212108816951124672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1668
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029e016868501680800000000000000
+      internalID: -8786425667671649790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1668
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae92e5a1728fff0800000000000000
+      internalID: -2208805611246956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_35
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1668
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9447df72f1d95d5e0800000000000000
+      internalID: -1885428111844215735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1668
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570826364829e2960800000000000000
+      internalID: 7579156320211861621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1668
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf392e1313076ed0800000000000000
+      internalID: -2420962894043070531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1567
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30134535d137e4ca0800000000000000
+      internalID: -6030756281213243133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1567
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdcc5ae6df0ec00800000000000000
+      internalID: 928020174908218197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1624
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4df9c65ff0fe1b60800000000000000
+      internalID: 7718871790823013706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1625
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78811f7e6cc905410800000000000000
+      internalID: 1463842257004206215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1625
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c118407d159df380800000000000000
+      internalID: -8935822131962834492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1625
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403dbe220e6ecc60800000000000000
+      internalID: 7840324956951752776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1567
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea94153667f20b80800000000000000
+      internalID: -8429903534134879519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1567
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b80bd773a041e0800000000000000
+      internalID: -2215591281495066302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1567
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5bbd8a675d61460800000000000000
+      internalID: 7212186558896256508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1567
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e1fbc959bc8a00800000000000000
+      internalID: 760186232443627665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_48
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1567
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127ca47997770000800000000000000
+      internalID: 2101825808134680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1567
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73e7e7b1f5b9930800000000000000
+      internalID: 4151016053243000785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1567
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a1cfe93370bb880800000000000000
+      internalID: -8594267545614411199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_51
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1532
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f682a2d8ff031c00800000000000000
+      internalID: 870056714372810481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1532
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9aef7569f2dc9d0800000000000000
+      internalID: -2752491474485597724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1528
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d45ba8edfdb64a0800000000000000
+      internalID: -6598934682078458517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1526
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604fdc0f515543000800000000000000
+      internalID: 14730251511657478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_55
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1460
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d82261d402e280800000000000000
+      internalID: -9015638206700792865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_56
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1460
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07a2a76fa9db1620800000000000000
+      internalID: 2746027745193666318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_57
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1460
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d585e520e4e860800000000000000
+      internalID: 7558412528003700629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1460
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c85eb83dc19a730800000000000000
+      internalID: 4010768638060891283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1460
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b853e872aeabcf0800000000000000
+      internalID: -235618574873031871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1460
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a18e55afc0279aa0800000000000000
+      internalID: -6154414289573740123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1475
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222212e09172b560800000000000000
+      internalID: 7328044410767286822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_62
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1475
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fbf7375b8cdb8b0800000000000000
+      internalID: -5134727318480109716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1475
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378596e33a9d35030800000000000000
+      internalID: 3482366232037513331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1476
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a322a6d3bf7530800000000000000
+      internalID: 3854997540477052224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_65
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1474
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6624d4707a13c0800000000000000
+      internalID: -4388071239841321927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_66
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774a8743cff99480800000000000000
+      internalID: -8891794775082383498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1475
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1261ed174b2472230800000000000000
+      internalID: 3613930568760038945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_68
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1473
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae70ee03746e2af0800000000000000
+      internalID: -419287269965267284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1396
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab52cd4375d67fe0800000000000000
+      internalID: -1191530360190379096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1395
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b476998a7a13410800000000000000
+      internalID: 1455128497187408782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1395
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909178f0316b7ae0800000000000000
+      internalID: -1550538783744487270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_72
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1395
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654b29b459240e10800000000000000
+      internalID: 2162899164905293152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1395
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857d18b6cc8503910800000000000000
+      internalID: 1815048284830553944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1395
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099f4ea48f52cff0800000000000000
+      internalID: -17346425091286775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1395
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9b365624d2fc50800000000000000
+      internalID: 6697648856973942455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1412
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a92d09b3dc3e43b0800000000000000
+      internalID: -5526412812696606297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_77
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1395
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74617427f4b3e7460800000000000000
+      internalID: 7241290463264052807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1346
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a5d3d46bb1fe70800000000000000
+      internalID: 9147298359891304762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1350
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954e4c508f6c7f980800000000000000
+      internalID: -8505110602714913703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1351
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d35dcd9b744fc60800000000000000
+      internalID: 7850978914013101414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1349
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1403f357051afd990800000000000000
+      internalID: -7358985899163570111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_82
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1365
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e36fb02a516270800000000000000
+      internalID: 8241967889761166566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1363
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a9ab9585876d5b0800000000000000
+      internalID: -5343951586970658172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1373
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f48e54c7bd68a730800000000000000
+      internalID: 4010576104214398196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1367
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b022f576fbfa90800000000000000
+      internalID: -7278953386280438711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1374
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8e0c99b920dfd0800000000000000
+      internalID: -2319307930931916817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_87
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1362
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5d0c4e19be9f80800000000000000
+      internalID: -8097831540189470950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_88
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1354
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ee9793f3ded1bd0800000000000000
+      internalID: -2657707349275709797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_89
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1350
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd4280afd87d1f0800000000000000
+      internalID: -1020190685558154310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1356
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3dd3bfaa0c861a0800000000000000
+      internalID: -6815986195433139284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1355
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53923eb2d9f2dbab0800000000000000
+      internalID: -4990780459963963083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1358
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c9333a1fc14ff10800000000000000
+      internalID: 2302497133643930703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_93
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1354
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ce39b95baa8de0800000000000000
+      internalID: -1330062338086221351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_94
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1354
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00085bac37087b680800000000000000
+      internalID: -8739375317078671360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_95
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1355
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8388ea63604550300800000000000000
+      internalID: 217672542661281848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_96
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1362
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc790f2e51ef020800000000000000
+      internalID: 2377361717741472620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1282
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507b7dcae2ecf2d0800000000000000
+      internalID: -3243468133515956143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1282
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbfad83b9a03660800000000000000
+      internalID: 7363571979392105293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_99
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1282
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad7e07948f712c0800000000000000
+      internalID: -4460823911576642953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_100
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1282
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1451765e6c3790c90800000000000000
+      internalID: -7203098830912940735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1289
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef190fac0b3372b0800000000000000
+      internalID: -5588057786974396446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_102
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1293
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95abc3209fc7eee80800000000000000
+      internalID: -8147437266940413351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_103
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1297
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5c7b9aef5f36c0800000000000000
+      internalID: -4161502069431444708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_104
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1300
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3b11fad53f8840800000000000000
+      internalID: 5228456906864671682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_105
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1309
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7c9a2c515db940800000000000000
+      internalID: 5313492591660793726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_106
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1293
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3d393dd3f9b9a0800000000000000
+      internalID: -6216669679134622852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_107
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1288
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4574d481ac7a9d50800000000000000
+      internalID: 6744840425100834122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_108
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1186
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d547f81dc4d0240800000000000000
+      internalID: 4759544844139126143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1195
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4680bc5e34181a60800000000000000
+      internalID: 7644882625537017419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_110
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1201
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0d8add60014d40800000000000000
+      internalID: 5566731086224756568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1206
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5c18c681b9a750800000000000000
+      internalID: 6316775144804867773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1215
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1a99321fa3e560800000000000000
+      internalID: 7341904310354714226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_113
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1211
+        width: 23
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df92182f11ae8690800000000000000
+      internalID: -7597958366139080751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_114
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1206
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fca1bf80cb46020800000000000000
+      internalID: 2334197253643358041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_115
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1207
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfe282c55130e4e0800000000000000
+      internalID: -1954507993873453116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_116
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1215
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5279840145cba00800000000000000
+      internalID: 773585664914957736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_117
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1223
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337483c4642cf100800000000000000
+      internalID: 143029303364580150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1226
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6362a686e0a46540800000000000000
+      internalID: 5000298398249804652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_119
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1229
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acb57d90592dc430800000000000000
+      internalID: 3804742686413798560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_120
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1229
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4762d6ecf7f4837f0800000000000000
+      internalID: -632668337302854028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_121
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1223
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aecb2c2f7fc7c00800000000000000
+      internalID: 899866647588563488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_122
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1213
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38e9ec2b98911450800000000000000
+      internalID: 6057790766030907454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_123
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1106
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387c3ed2077b6020800000000000000
+      internalID: 2336091685923878971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1113
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e145a0c46456b120800000000000000
+      internalID: 2429221840718479848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_125
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1119
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a2c599cafed920800000000000000
+      internalID: 3017124544092742555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1125
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1782e4adec9230800000000000000
+      internalID: 3647051090694183544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_127
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1130
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c361f8970c6e880800000000000000
+      internalID: -8581960411583726548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_128
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1129
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be37a22f7de25c0800000000000000
+      internalID: -4238212764214760595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1125
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3792497b00b9dd0800000000000000
+      internalID: -2478386381472566362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_130
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1120
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe29f8120ce2e590800000000000000
+      internalID: -7646289723568607502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_131
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1045
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27e6b67b580d5040800000000000000
+      internalID: 4637872380188223274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1047
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd848069e441d8e0800000000000000
+      internalID: -1670478217640374853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_133
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1048
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8c4d2e8979890d0800000000000000
+      internalID: -3415813634464102232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_134
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1047
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f496673a8f2700800000000000000
+      internalID: 517784452719769267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_135
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1047
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94a888883e810e20800000000000000
+      internalID: 3315087174181364894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_136
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1047
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef434b72a1d9e6f60800000000000000
+      internalID: 8029527921309005054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_137
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1047
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95180235d28d3910800000000000000
+      internalID: 1818753676706583963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1048
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5215f7e5d627d4c0800000000000000
+      internalID: -4262895822121397668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_139
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1065
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831ac888193f9e30800000000000000
+      internalID: 4512388129185469312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_140
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1065
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20afb627c6cbb5360800000000000000
+      internalID: 7159523206597704194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_141
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1065
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c791d9379503af0800000000000000
+      internalID: -418736412253651918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_142
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1066
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bb034a224cc7850800000000000000
+      internalID: 6376186825512368921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_143
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1064
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7cb0ee17de7ff80800000000000000
+      internalID: -8072722733457487925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1063
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5d4dfec76d98f0800000000000000
+      internalID: -532155042249220840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_145
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1065
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead0d1717df8d810800000000000000
+      internalID: 1790459515562416865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_146
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1063
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546578c31626ec50800000000000000
+      internalID: 6694079762542191707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_147
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 982
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7fd38a2e3c9aec0800000000000000
+      internalID: -3555095052579637302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_148
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 982
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a1c9481ee1554c0800000000000000
+      internalID: -4299496315313972591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_149
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 982
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93fd5ab9a06dc180800000000000000
+      internalID: -9093505790498704482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_150
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 982
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926be107741d43340800000000000000
+      internalID: 4842725604084069929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_151
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 982
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10933b9a631fd350800000000000000
+      internalID: 6043570573545803806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_152
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 982
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df47bde006760420800000000000000
+      internalID: 2595891981585960914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_153
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 982
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422f840dd01880a0800000000000000
+      internalID: -6879229889358126519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 982
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456c6f48c62dc380800000000000000
+      internalID: -8949454242747488949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_155
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 982
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff55ada54cc944500800000000000000
+      internalID: 379600635757745663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_156
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 982
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae5560a8445ab90800000000000000
+      internalID: -7231298267070993767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_157
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 982
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd7e7fe62c203b0800000000000000
+      internalID: -5547658009105671044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_158
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 921
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c02e79c5ab64b0800000000000000
+      internalID: -5446077039551397609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_159
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 921
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0297488489b2c0800000000000000
+      internalID: -4415352238808887340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 921
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961496523af7956d0800000000000000
+      internalID: -3001227337981673111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_161
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 921
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831461d8fce323b00800000000000000
+      internalID: 806776344398938424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_162
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 921
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05709d93f3123510800000000000000
+      internalID: 1527305160673490186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_163
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 921
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba9064a88741150800000000000000
+      internalID: 5842427151882234722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_164
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 847
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041c005012af7d80800000000000000
+      internalID: -8250697801373314038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 850
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb401ef27b57f4b0800000000000000
+      internalID: -5406752278188110862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 851
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b345f9b0cc6a9b0800000000000000
+      internalID: -5069139980269110506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_167
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 848
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ec2365bbcc84d0800000000000000
+      internalID: -3130903661015930581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_168
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 850
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f4bc230ffde4b0800000000000000
+      internalID: -5409387188302055762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_169
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 852
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d6a07e7d7e88d00800000000000000
+      internalID: 975284233805917522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_170
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 788
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d38518ff25b039b0800000000000000
+      internalID: -5102379160180522026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_171
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 786
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8def217fa7967e870800000000000000
+      internalID: 8712047981023657688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_172
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 784
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700d3c89fc0134c70800000000000000
+      internalID: 8954018967949922311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_173
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 784
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c99e2d58c0ddb00800000000000000
+      internalID: 854853273178971266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_174
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 785
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5b5b1da27ed1a0800000000000000
+      internalID: -6782857900959507764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 785
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617e7b869f55db90800000000000000
+      internalID: -7217757727601299094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 783
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be348702c8237a360800000000000000
+      internalID: 7180763708287108075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 782
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022661458148e96a0800000000000000
+      internalID: -6440565177068396000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_178
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 784
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e69145876cc730800000000000000
+      internalID: 4020702389363729707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_179
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 785
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705240c5083146230800000000000000
+      internalID: 3631048641587979527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_180
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 789
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcba69ecdf84d90800000000000000
+      internalID: -7113156547698766987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_181
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 788
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be94581128c4040800000000000000
+      internalID: 4633221128419666829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_182
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 788
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b35e76ec1d3240800000000000000
+      internalID: 4773002956370065319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_183
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 722
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1bce5da9888fe70800000000000000
+      internalID: 9149212841598562776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_184
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 722
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7913bd58d74c7280800000000000000
+      internalID: -9044274957056272001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_185
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 722
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7279eb1a2a35f7c00800000000000000
+      internalID: 900530408460818215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_186
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 722
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37104b8093d1d9da0800000000000000
+      internalID: -5936556603008089741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_187
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 722
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bebc25e287e6cd0800000000000000
+      internalID: -2562978997574309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_188
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 722
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7faf3bc8706c920800000000000000
+      internalID: 3010101701840140208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_189
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 722
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafb41305557cc0f0800000000000000
+      internalID: -1095371601373511762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_190
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 722
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed40ba94248f85640800000000000000
+      internalID: 5069074344192967902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_191
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 722
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94e837cc6763820800000000000000
+      internalID: 2897634030743603635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_192
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 722
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01edb7d38285c4570800000000000000
+      internalID: 8452227530521042448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_193
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 722
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3bdee964448d640800000000000000
+      internalID: 5104905247729234882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_194
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 721
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa14438e8bb4770800000000000000
+      internalID: 8596167621215366985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_195
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 722
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317895abe500ca000800000000000000
+      internalID: 48414102847588115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_196
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 678
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fcdc9200054e980800000000000000
+      internalID: -8510589434191819002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_197
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 677
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa54df64eab63e0800000000000000
+      internalID: -2059360784671724887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_198
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 677
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99fb526a20cc210800000000000000
+      internalID: 1354460500552817150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_199
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 677
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5806838ff5a05170800000000000000
+      internalID: 8165208641264552027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_200
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 677
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5faadb3adc1699e0800000000000000
+      internalID: -1615071692733108390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_201
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 601
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5f7f5c47fadfca0800000000000000
+      internalID: -5981431814005721646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_202
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 601
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7fdc71034695d0800000000000000
+      internalID: -3056181623455253835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_203
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 601
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e511f73c2936090800000000000000
+      internalID: -8042423141205451125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_204
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 601
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860531b648bd99430800000000000000
+      internalID: 3790301923187576936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_205
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 601
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeefe31d4aed60940800000000000000
+      internalID: 5262138014095572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_206
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 601
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42d83a84894feb0800000000000000
+      internalID: -4686953874436840215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_207
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 601
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e39f14d5b2ef00800000000000000
+      internalID: 1144677177973008392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_208
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 601
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f30bf7fdb416720800000000000000
+      internalID: 2837632663512170352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_209
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 635
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1655784f4562e0800000000000000
+      internalID: -2133211675865244881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_210
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 601
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51e8270f459ecd0800000000000000
+      internalID: -2528396324101024318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_211
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 639
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6763bbb3ed49e0800000000000000
+      internalID: -1635400694357333165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_212
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 601
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee08acf9d8f7e82d0800000000000000
+      internalID: -3274539632803806994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_213
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 637
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a17d449ee275f0800000000000000
+      internalID: -760283066350327549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_214
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 539
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8da9b6fc30f650800000000000000
+      internalID: 6264574112047139392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_215
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 577
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94fa44f210482f0800000000000000
+      internalID: -971650317077755486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_216
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 539
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900179d007f71f580800000000000000
+      internalID: -8795108478036799479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_217
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 539
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308ce590691679f0800000000000000
+      internalID: -471161208390778822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_218
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 572
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a284ab52fd28c6d0800000000000000
+      internalID: -2970073435307998557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_219
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 539
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bf9fe974f21a60800000000000000
+      internalID: 7643440322149594750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_220
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 570
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dad0d6cc47313a0800000000000000
+      internalID: -6695879799618032353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_221
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 539
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986f55218d5f8650800000000000000
+      internalID: 6237306818190600340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_222
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 539
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29d7765820cfd220800000000000000
+      internalID: 2512938396577945898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_223
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 539
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6258809477645f0800000000000000
+      internalID: -772799130488199454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_224
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 539
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a849b5123cd8b80800000000000000
+      internalID: -8390835982683567466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_225
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 539
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd09b9bf8da58ef0800000000000000
+      internalID: -106488183365497351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_226
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 539
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b9f6e5b0e00730800000000000000
+      internalID: 3963414743954864221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_227
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 539
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f50a9b3403623c60800000000000000
+      internalID: 7796402774762718711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_228
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 469
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502bcf23c5be2b940800000000000000
+      internalID: 5310565691848176133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_229
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 469
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83021ff0ff93001e0800000000000000
+      internalID: -2233721647528861640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_230
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 469
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bb4fd2784763e60800000000000000
+      internalID: 7941663116854868844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_231
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 469
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e9ab4b0f0b0c450800000000000000
+      internalID: 6107075642585161295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_232
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 469
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ae6768c3eb64f60800000000000000
+      internalID: 8018305353743002129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_233
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 469
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20ad95635447df90800000000000000
+      internalID: -6928994376708415441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_234
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 469
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41bcc09f94b13e0800000000000000
+      internalID: -2081989068718402324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_235
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 469
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6d608fad32a400800000000000000
+      internalID: 333897146362064283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_236
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 469
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080ad48059e2fc60800000000000000
+      internalID: 7850593632495732744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_237
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 469
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41005f835c4e7ad40800000000000000
+      internalID: 5595692597746401300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_238
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 469
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0de37b87a966bc0800000000000000
+      internalID: -3790172193124593501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_239
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 469
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10187117fea9930800000000000000
+      internalID: 4150893275580006826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_240
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 469
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a85fdf7060498b0800000000000000
+      internalID: -5146481842782369208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_241
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 469
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a2e080e3cb2320800000000000000
+      internalID: 2534334584328462627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_242
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 413
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe395f445a33f20800000000000000
+      internalID: 3401243859191328527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_243
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 413
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f590d5461e9ffb5f0800000000000000
+      internalID: -738597067418695329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_244
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 413
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551264755c28fdc0800000000000000
+      internalID: -3605082756173654695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_245
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 413
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ea41d3e3e86b40800000000000000
+      internalID: 5433843518030931877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_246
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 413
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27f16bb7edf2690800000000000000
+      internalID: -7624631021197102403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_247
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 413
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b9aed1e17280240800000000000000
+      internalID: 4758096016621345552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_248
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 413
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077e94f5d731d2d0800000000000000
+      internalID: -3255759663540570366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_249
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 413
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033658381907ec510800000000000000
+      internalID: 1571317090278007600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_250
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 413
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc761bb53dc4978f0800000000000000
+      internalID: -542317809461270580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_251
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 413
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846b3d87eda5fe40800000000000000
+      internalID: 5689644914271020171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_252
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 413
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1809bdc6b0963ac30800000000000000
+      internalID: 4369451561271398529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_253
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 413
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bbf404fc3d5ff0800000000000000
+      internalID: -45813402450545743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_254
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 413
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc5f178aa2086c0800000000000000
+      internalID: -4143264754226049635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_255
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 413
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862dcac6116d8bb0800000000000000
+      internalID: -4932179266381207927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_256
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 353
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13905b918f85c500800000000000000
+      internalID: 415896327420941084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_257
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 353
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc553929ee9560e0800000000000000
+      internalID: -2277239312309986085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_258
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 375
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406720d65316fd000800000000000000
+      internalID: 62875801896515076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_259
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 353
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a60f9c00de7450800000000000000
+      internalID: 6088532498877687990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_260
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 375
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5add4048488740800000000000000
+      internalID: 5154449214546796260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_261
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 354
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504f04b8644050440800000000000000
+      internalID: 4901328470493164549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_262
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 371
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d789f6f3f223980800000000000000
+      internalID: -8560727992176181994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_263
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 377
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1f8502e1ae9f10800000000000000
+      internalID: 2278436453623995788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_264
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 354
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4898e1af6d4e0c260800000000000000
+      internalID: 7115939023215823236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_265
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 372
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c72e3f3401d9d70800000000000000
+      internalID: 9051408710125124674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_266
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 353
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d24322db0f4392f0800000000000000
+      internalID: -967342582765763887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_267
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 371
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5545004995770120800000000000000
+      internalID: 2380000229153129818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_268
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 353
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f932fd8ad16d410800000000000000
+      internalID: 1501420136910004036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_269
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66269fbed1f21a810800000000000000
+      internalID: 1774751533720232550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_270
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 353
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454e6a835d07c5680800000000000000
+      internalID: -8765006713689021356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_271
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1432ab0c7eab31730800000000000000
+      internalID: 3968721201177174849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_272
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 315
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebcc5d132e9a380800000000000000
+      internalID: -8959381280008651087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_273
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 315
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632718e7289e0aeb0800000000000000
+      internalID: -4710508463552105930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_274
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 278
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d308d4b2d1133320800000000000000
+      internalID: 2536390611814581209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_275
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11be9e1333e3ff00800000000000000
+      internalID: 1149512138606162202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_276
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 323
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41f94ffb58c1e20800000000000000
+      internalID: 3322677684581897415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_277
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 323
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb761cd87eeea5170800000000000000
+      internalID: 8168103552472934331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_278
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 278
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc65357e7167f60800000000000000
+      internalID: 8031633267764939713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_279
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 316
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a457323f224a01d0800000000000000
+      internalID: -3383819399542123359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_280
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 278
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f6af1880e33ea0800000000000000
+      internalID: -5894120612046637826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_281
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 316
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f12ca2a81c6af840800000000000000
+      internalID: 5258634367972680182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_282
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 278
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5f2415c1131970800000000000000
+      internalID: 8724336441291661149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_283
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 278
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78a33787d96d340800000000000000
+      internalID: 4888267586212104100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_284
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 278
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb323fe682b615a00800000000000000
+      internalID: 743493234897134527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_285
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 278
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f6846f51852a60800000000000000
+      internalID: 7648661788867097942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_286
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 278
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7b833b27d70ff0800000000000000
+      internalID: -69850688652608709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_287
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 278
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882614d2900f228d0800000000000000
+      internalID: -2872469690104323448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_288
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 278
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83eb60c93ecb6ba30800000000000000
+      internalID: 4230776585722445368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_289
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 196
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d4c091fc8aeea70800000000000000
+      internalID: 8858203124516277642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_290
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aaa9f8c9ba5fa40800000000000000
+      internalID: 5401412017013303930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_291
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 245
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86493c0b762a6200800000000000000
+      internalID: 173993845535098509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_292
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b55ea241041a540800000000000000
+      internalID: 5017361915230640970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_293
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 246
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c9a6d2ba886380800000000000000
+      internalID: -8977773356452822589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_294
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 246
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4b82c6bf67c8bb0800000000000000
+      internalID: -4932436669654059841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_295
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 246
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40067b1e27b73bd0800000000000000
+      internalID: -2650448447027150770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_296
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 196
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8898254b17c98ff0800000000000000
+      internalID: -33276602290235249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_297
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a5eb451ac2a710800000000000000
+      internalID: 1703145801915933947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_298
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 196
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4b2873eb9df600800000000000000
+      internalID: 503730134611348815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_299
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 196
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af52d681176fc780800000000000000
+      internalID: -8660590233436135518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_300
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 196
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5685d3f54e22cf410800000000000000
+      internalID: 1512121939135387749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_301
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 196
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7add119824a02f410800000000000000
+      internalID: 1509280106006306215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_302
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 196
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80719ecf5f99dde70800000000000000
+      internalID: 9141632100421146376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_303
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 196
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1171e8aa6a51d060800000000000000
+      internalID: 6976456711919989018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_304
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad856be1c2ad2c0800000000000000
+      internalID: -4406160775008691563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_305
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee354ab91593a10800000000000000
+      internalID: 1889631247577378307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_306
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036a1c5b0b217d60800000000000000
+      internalID: 7886131750292316932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_307
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 146
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7f4fd25c4a30e20800000000000000
+      internalID: 3315674917461358578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_308
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 146
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c0a0202deac3970800000000000000
+      internalID: 8736049594192497684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_309
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 146
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ddb8e50e75c8d0800000000000000
+      internalID: -2826714627260426996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_310
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 146
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d298ca1515a455a60800000000000000
+      internalID: 7662112054163835181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_311
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 146
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd648094baf94fdf0800000000000000
+      internalID: -147317329782880549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_312
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 146
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f3f2a6a2bd20820800000000000000
+      internalID: 2883107686687129383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_313
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 146
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63445a1f97125b7c0800000000000000
+      internalID: -4056299081748364234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_314
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4665c465f608030800000000000000
+      internalID: 3494915727278105785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_315
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 94
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310cc99d61b273c70800000000000000
+      internalID: 8950670161562353683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_316
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 94
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6c8ee3d4c2f220800000000000000
+      internalID: 2518291556172851960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_317
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 94
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699e6c8213574c20800000000000000
+      internalID: 3190610200145860968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_318
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 94
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5011e8b0f550d100800000000000000
+      internalID: 130698881576013919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_319
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 94
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3f72f87885ed820800000000000000
+      internalID: 2944888545592472494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_320
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 94
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f0e9706f1eb210800000000000000
+      internalID: 1350551437479834197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_321
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 94
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca4966cb95805470800000000000000
+      internalID: 8381345810631707334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_322
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 94
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949967ea77acfdc0800000000000000
+      internalID: -3603821455492934510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_323
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 94
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e615ca2628c33aba0800000000000000
+      internalID: -6078948541321162386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_324
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 94
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aa9de7d1e09f9d0800000000000000
+      internalID: -2740143378433201567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_325
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 94
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df415ae1b44ccc940800000000000000
+      internalID: 5317841086933439741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_326
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 94
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720bbf6fcfd25b660800000000000000
+      internalID: 7400872127151976487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stealth Owl_327
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 216
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97d690e6f399f70800000000000000
+      internalID: 9194449856090700242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
